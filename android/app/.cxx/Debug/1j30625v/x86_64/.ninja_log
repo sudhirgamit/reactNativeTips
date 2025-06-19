@@ -1,0 +1,5 @@
+# ninja log v5
+0	16	0	/Users/imac/data/demoProject/reactNativeTips/android/app/.cxx/Debug/1j30625v/x86_64/CMakeFiles/cmake.verify_globs	85e4ee2513b0f983
+0	2824	1735202539813005141	CMakeFiles/appmodules.dir/Users/imac/data/demoProject/reactNativeTips/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	6d60885ffe38d024
+0	3130	1735202540119894241	CMakeFiles/appmodules.dir/OnLoad.cpp.o	8ebc6b826dac4507
+3131	3247	1735202540242925898	/Users/imac/data/demoProject/reactNativeTips/android/app/build/intermediates/cxx/Debug/1j30625v/obj/x86_64/libappmodules.so	8a24269d5e5bb8bc

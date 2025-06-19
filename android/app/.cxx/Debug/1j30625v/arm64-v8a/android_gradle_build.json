@@ -1,0 +1,42 @@
+{
+  "buildFiles": [
+    "/Users/imac/data/demoProject/reactNativeTips/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/imac/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/imac/data/demoProject/reactNativeTips/android/app/.cxx/Debug/1j30625v/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/imac/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/imac/data/demoProject/reactNativeTips/android/app/.cxx/Debug/1j30625v/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "appmodules",
+      "output": "/Users/imac/data/demoProject/reactNativeTips/android/app/build/intermediates/cxx/Debug/1j30625v/obj/arm64-v8a/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/imac/.gradle/caches/8.10.2/transforms/8b60b4f75564ac53567672df7a1c9a73/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so",
+        "/Users/imac/.gradle/caches/8.10.2/transforms/1ae2c2bcce3cae52224b57e1fa01bdc7/transformed/react-android-0.76.5-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/imac/.gradle/caches/8.10.2/transforms/1ae2c2bcce3cae52224b57e1fa01bdc7/transformed/react-android-0.76.5-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/imac/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/imac/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
